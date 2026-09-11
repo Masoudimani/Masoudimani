@@ -3,8 +3,10 @@
 ## 🧬 Biostatistician | Data Scientist | Medical Researcher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/masoud.imn)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=your-id)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masoudimani7@gmail.com)
+
 
 I'm a Master's graduate in Biostatistics from Iran University of Medical Sciences, passionate about applying **machine learning and statistical modeling** to solve real-world problems in **public health and medicine**. I love turning complex health data into actionable insights.
 
@@ -35,24 +37,6 @@ I'm a Master's graduate in Biostatistics from Iran University of Medical Science
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-0066CC?style=for-the-badge&logo=shiny&logoColor=white)
-
----
-
-## 📊 My Research & Publications
-
-I have published research in high-impact journals.
-
-*For a full list, please visit my [Google Scholar](https://scholar.google.com/citations?user=your-id) profile.*
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to interesting collaborations and discussions on **AI in healthcare, biostatistics, and data science**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=your-id)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masoudimani7@gmail.com)
 
 ---
 
