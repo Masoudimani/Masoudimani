@@ -1,6 +1,10 @@
-# 👋 Hi there, I'm Mohamad Imani
+# 👋 Hi there, I'm Masoud Imani
 
 ## 🧬 Biostatistician | Data Scientist | Medical Researcher
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=your-id)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masoudimani7@gmail.com)
 
 I'm a Master's graduate in Biostatistics from Iran University of Medical Sciences, passionate about applying **machine learning and statistical modeling** to solve real-world problems in **public health and medicine**. I love turning complex health data into actionable insights.
 
